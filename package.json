@@ -1,0 +1,20 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Bunk0vsky & Jonas Schmedtmann",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.34.0",
+    "parcel": "^2.10.3",
+    "regenerator-runtime": "^0.14.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.3"
+  }
+}

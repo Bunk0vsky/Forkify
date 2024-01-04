@@ -1,4 +1,4 @@
-9632
+9633
 70C:\Users\jakub\Documents\GitHub\Forkify\node_modules\svgo\lib\style.js133470280604399072 0
 84C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\stable\string\strike.js133470465244218116 0
 50C:\Users\jakub\Documents\GitHub\Forkify\.gitignore133471072676643346 0
@@ -28,7 +28,7 @@
 99C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\modules\esnext.iterator.constructor.js133470465235558235 0
 117C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.js.map133470280604837563 0
 95C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\modules\esnext.math.deg-per-rad.js133470465235757939 0
-44C:\Users\jakub\Documents\GitHub\Forkify\dist133482302093512768 1
+44C:\Users\jakub\Documents\GitHub\Forkify\dist133487579937491135 1
 89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\ordered-binary\assets\powers-dre.png133470280603970439 0
 97C:\Users\jakub\Documents\GitHub\Forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\config133470280607394604 1
 87C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\full\array\virtual\push.js133470465242354363 0
@@ -52,7 +52,7 @@
 88C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\es\reflect\is-extensible.js133470465239822839 0
 68C:\Users\jakub\Documents\GitHub\Forkify\node_modules\semver\index.js133470280604478736 0
 94C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\internals\is-null-or-undefined.js133470465239972337 0
-50C:\Users\jakub\Documents\GitHub\Forkify\index.html133476591064627078 0
+50C:\Users\jakub\Documents\GitHub\Forkify\index.html133486657635797609 0
 94C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\modules\es.array.last-index-of.js133470465234140443 0
 104C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-select\node_modules\entities\lib\index.d.ts.map133470280605923907 0
 93C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\full\typed-array\uint16-array.js133470465246081887 0
@@ -207,7 +207,7 @@
 68C:\Users\jakub\Documents\GitHub\Forkify\src\sass\_searchResults.scss132886955210000000 0
 86C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\es\array\virtual\every.js133470465236318261 0
 72C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\actual\date133470465245483879 1
-60C:\Users\jakub\Documents\GitHub\Forkify\src\js\views\View.js133476597572691646 0
+60C:\Users\jakub\Documents\GitHub\Forkify\src\js\views\View.js133487571297532803 0
 106C:\Users\jakub\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133470280607534136 0
 105C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@swc\helpers\_\_tagged_template_literal\package.json133470280609389579 0
 89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\full\async-iterator\index.js133470465239284257 0
@@ -230,7 +230,7 @@
 125C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Selector.js133470280607255057 0
 70C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lmdb\src\misc.cpp133470280606956076 0
 118C:\Users\jakub\Documents\GitHub\Forkify\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\LICENSE133470280601802608 0
-60C:\Users\jakub\Documents\GitHub\Forkify\src\js\controller.js133482295811452691 0
+60C:\Users\jakub\Documents\GitHub\Forkify\src\js\controller.js133487575345617678 0
 85C:\Users\jakub\Documents\GitHub\Forkify\node_modules\svgo\plugins\removeEmptyAttrs.js133470280606372402 0
 97C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lmdb\node_modules\node-addon-api\common.gypi133470280602196354 0
 57C:\Users\jakub\Documents\GitHub\Forkify\src\js\helpers.js133475466527872438 0
@@ -238,7 +238,7 @@
 99C:\Users\jakub\Documents\GitHub\Forkify\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133470280606482038 0
 91C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\modules\es.number.parse-int.js133470465234449824 0
 96C:\Users\jakub\Documents\GitHub\Forkify\node_modules\electron-to-chromium\chromium-versions.json133470280603591744 0
-55C:\Users\jakub\Documents\GitHub\Forkify\src\js\model.js133482294865718616 0
+55C:\Users\jakub\Documents\GitHub\Forkify\src\js\model.js133487579937222033 0
 102C:\Users\jakub\Documents\GitHub\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\CDC.js133470280607534136 0
 90C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\modules\es.aggregate-error.js133470465234040750 0
 92C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\lib\syntax\atrule\font-face.js133470280607982626 0
@@ -266,12 +266,23 @@
 108C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts.map133470280604518605 0
 106C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-select\node_modules\dom-serializer\lib\index.d.ts133470280604209652 0
 90C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\features\instance\includes.js133470465238696753 0
-52C:\Users\jakub\Documents\GitHub\Forkify\src\js\views133476558359125363 1
+52C:\Users\jakub\Documents\GitHub\Forkify\src\js\views133482324727595775 1
 80C:\Users\jakub\Documents\GitHub\Forkify\node_modules\dom-serializer\package.json133470280603312642 0
 74C:\Users\jakub\Documents\GitHub\Forkify\node_modules\source-map-js\LICENSE133470280601683327 0
+56C:\Users\jakub\Documents\GitHub\Forkify\src\img\logo.png132886955210000000 0
+89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\stable\instance\to-sorted.js133470465245294522 0
+106C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133470280606362444 0
+72C:\Users\jakub\Documents\GitHub\Forkify\node_modules\parcel\package.json133470280603302677 0
+77C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\features\btoa.js133470465232606640 0
+116C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133470280607783287 0
+88C:\Users\jakub\Documents\GitHub\Forkify\node_modules\svgo\plugins\removeScriptElement.js133470280606541834 0
+79C:\Users\jakub\Documents\GitHub\Forkify\node_modules\domutils\lib\querying.d.ts133470280604757821 0
+70C:\Users\jakub\Documents\GitHub\Forkify\src\js\views\paginationView.js133482534015408986 0
+81C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\features\map\some.js133470465243759663 0
+78C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\cjs\syntax\scope133470280607454402 1
 79C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\lib\data-patch.js133470280607863020 0
 73C:\Users\jakub\Documents\GitHub\Forkify\node_modules\parse-json\readme.md133470280602485381 0
-66C:\Users\jakub\Documents\GitHub\Forkify\src\js\views\recipeView.js133476594476164896 0
+66C:\Users\jakub\Documents\GitHub\Forkify\src\js\views\recipeView.js133486843746505925 0
 82C:\Users\jakub\Documents\GitHub\Forkify\node_modules\update-browserslist-db\cli.js133470280602226252 0
 97C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\src133470280606860782 1
 71C:\Users\jakub\Documents\GitHub\Forkify\node_modules\domhandler\LICENSE133470280601693301 0
@@ -292,7 +303,7 @@
 75C:\Users\jakub\Documents\GitHub\Forkify\node_modules\timsort\src\timsort.js133470280603452179 0
 89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\es\array\virtual\includes.js133470465238676627 0
 89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\modules\esnext.map.key-of.js133470465235718072 0
-67C:\Users\jakub\Documents\GitHub\Forkify\src\js\views\resultsView.js133476595710825765 0
+67C:\Users\jakub\Documents\GitHub\Forkify\src\js\views\resultsView.js133487573538886627 0
 89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\full\string\virtual\fixed.js133470465237188045 0
 83C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\es\typed-array\join.js133470465240530484 0
 99C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\modules\esnext.async-iterator.every.js133470465235428669 0
@@ -304,8 +315,6 @@
 90C:\Users\jakub\Documents\GitHub\Forkify\node_modules\.bin\node-gyp-build-optional-packages133470280612718429 0
 59C:\Users\jakub\Documents\GitHub\Forkify\src\img\favicon.png132886955210000000 0
 98C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js133470280602076751 0
-56C:\Users\jakub\Documents\GitHub\Forkify\src\img\logo.png132886955210000000 0
-89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\stable\instance\to-sorted.js133470465245294522 0
 88C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\utils\test\throttle.test.js133470280606631533 0
 97C:\Users\jakub\Documents\GitHub\Forkify\node_modules\csso\node_modules\css-tree\lib\data-patch.js133470280607793254 0
 88C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\actual\iterator\to-array.js133470465244746358 0
@@ -1546,12 +1555,6 @@
 86C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@swc\helpers\cjs\_await_value.cjs133470280603890713 0
 77C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\transformer-json133470280602604982 1
 75C:\Users\jakub\Documents\GitHub\Forkify\node_modules\safe-buffer\index.d.ts133470280602864107 0
-106C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133470280606362444 0
-72C:\Users\jakub\Documents\GitHub\Forkify\node_modules\parcel\package.json133470280603302677 0
-77C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\features\btoa.js133470465232606640 0
-116C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133470280607783287 0
-88C:\Users\jakub\Documents\GitHub\Forkify\node_modules\svgo\plugins\removeScriptElement.js133470280606541834 0
-79C:\Users\jakub\Documents\GitHub\Forkify\node_modules\domutils\lib\querying.d.ts133470280604757821 0
 75C:\Users\jakub\Documents\GitHub\Forkify\node_modules\msgpackr\dist\index.js133470280603950521 0
 87C:\Users\jakub\Documents\GitHub\Forkify\node_modules\svgo\plugins\removeStyleElement.js133470280606551809 0
 113C:\Users\jakub\Documents\GitHub\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133470280607494258 0
@@ -1673,7 +1676,7 @@
 102C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133470280604628251 0
 88C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-select\lib\esm\pseudo-selectors133470280606800971 1
 76C:\Users\jakub\Documents\GitHub\Forkify\node_modules\supports-color\index.js133470280602226252 0
-63C:\Users\jakub\Documents\GitHub\Forkify\dist\index.f7626f62.css133482294867061059 0
+63C:\Users\jakub\Documents\GitHub\Forkify\dist\index.f7626f62.css133487537772271800 0
 84C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\lib\tokenizer\utils.js133470280609130457 0
 90C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\full\array\virtual\unshift.js133470465246321087 0
 94C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\features\string\virtual\repeat.js133470465242762997 0
@@ -1718,8 +1721,8 @@
 89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\internals\define-built-in.js133470465233352846 0
 84C:\Users\jakub\Documents\GitHub\Forkify\node_modules\source-map-js\lib\quick-sort.js133470280603193052 0
 89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\features\number\is-finite.js133470465239862704 0
-93C:\Users\jakub\Documents\GitHub\Forkify\node_modules\source-map-js\lib\source-map-consumer.js133470280603442210 0
 83C:\Users\jakub\Documents\GitHub\Forkify\node_modules\sass\types\legacy\options.d.ts133470281019202136 0
+93C:\Users\jakub\Documents\GitHub\Forkify\node_modules\source-map-js\lib\source-map-consumer.js133470280603442210 0
 120C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133470280608371322 0
 76C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lines-and-columns\build133470280602744516 1
 85C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\utils\src\relativeUrl.js133470280606382368 0
@@ -1764,7 +1767,6 @@
 91C:\Users\jakub\Documents\GitHub\Forkify\node_modules\msgpackr\dist\index-no-eval.min.js.map133470280605286036 0
 90C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@swc\helpers\src\_to_property_key.mjs133470280610057338 0
 82C:\Users\jakub\Documents\GitHub\Forkify\node_modules\source-map\lib\source-node.js133470280603970439 0
-80C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lightningcss\node\index.mjs133470280604010305 0
 80C:\Users\jakub\Documents\GitHub\Forkify\node_modules\semver\ranges\intersects.js133470280604528570 0
 86C:\Users\jakub\Documents\GitHub\Forkify\node_modules\mdn-data\css\at-rules.schema.json133470280603312642 0
 81C:\Users\jakub\Documents\GitHub\Forkify\node_modules\semver\ranges\min-version.js133470280604917284 0
@@ -1820,8 +1822,8 @@
 89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\csso\node_modules\mdn-data\README.md133470280605176402 0
 80C:\Users\jakub\Documents\GitHub\Forkify\node_modules\semver\functions\compare.js133470280603482094 0
 80C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@swc\helpers\_\_ts_decorate133470280609439415 1
-80C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\lib\lexer\Lexer.js133470280608271670 0
 104C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133470280605545168 0
+80C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\lib\lexer\Lexer.js133470280608271670 0
 71C:\Users\jakub\Documents\GitHub\Forkify\node_modules\micromatch\LICENSE133470280601732840 0
 92C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\full\typed-array\copy-within.js133470465233213286 0
 78C:\Users\jakub\Documents\GitHub\Forkify\node_modules\cosmiconfig\dist\index.js133470280602804321 0
@@ -2394,7 +2396,7 @@
 78C:\Users\jakub\Documents\GitHub\Forkify\node_modules\node-addon-api\napi-inl.h133470280603591744 0
 74C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\actual\number133470465245055324 1
 71C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\cjs\lexer133470280607394604 1
-67C:\Users\jakub\Documents\GitHub\Forkify\dist\index.f7626f62.css.map133482294867080969 0
+67C:\Users\jakub\Documents\GitHub\Forkify\dist\index.f7626f62.css.map133487537772281766 0
 100C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133470280607653720 0
 73C:\Users\jakub\Documents\GitHub\Forkify\node_modules\json5\lib\require.js133470280603432245 0
 88C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\full\async-disposable-stack133470465239279074 1
@@ -2842,6 +2844,7 @@
 82C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lightningcss\node\ast.js.flow133470280602824239 0
 95C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\modules\es.string.code-point-at.js133470465234789556 0
 79C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lightningcss\node\index.js133470280603741219 0
+80C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lightningcss\node\index.mjs133470280604010305 0
 83C:\Users\jakub\Documents\GitHub\Forkify\node_modules\lightningcss\node\targets.d.ts133470280604488709 0
 110C:\Users\jakub\Documents\GitHub\Forkify\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\040-presets.md133470280606312603 0
 91C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\full\object\define-property.js133470465233432612 0
@@ -4271,8 +4274,6 @@
 89C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\features\typed-array\join.js133470465240550401 0
 84C:\Users\jakub\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\regions\TL.js133470280611841372 0
 88C:\Users\jakub\Documents\GitHub\Forkify\node_modules\caniuse-lite\data\features\woff2.js133470280612240063 0
-81C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\features\map\some.js133470465243759663 0
-78C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\cjs\syntax\scope133470280607454402 1
 98C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\actual\typed-array\find-last-index.js133470465236887522 0
 83C:\Users\jakub\Documents\GitHub\Forkify\node_modules\core-js\actual\regexp\index.js133470465238946105 0
 96C:\Users\jakub\Documents\GitHub\Forkify\node_modules\css-tree\cjs\syntax\scope\atrulePrelude.cjs133470280603422292 0
@@ -9135,7 +9136,7 @@
 123C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Percentage.js133470280605535205 0
 118C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property133470280605206308 1
 132C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\background.js133470280604060146 0
-65C:\Users\jakub\Documents\GitHub\Forkify\dist\favicon.8b2f57bf.png133482294867180812 0
+65C:\Users\jakub\Documents\GitHub\Forkify\dist\favicon.8b2f57bf.png133487537771277582 0
 128C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\border.js133470280604139884 0
 133C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\font-weight.js133470280605166437 0
 118C:\Users\jakub\Documents\GitHub\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Comment.js133470280604319288 0
@@ -9623,11 +9624,11 @@
 68C:\Users\jakub\Documents\GitHub\Forkify\node_modules\.bin\semver.ps1133470280612728411 0
 62C:\Users\jakub\Documents\GitHub\Forkify\node_modules\.bin\svgo133470280612718429 0
 84C:\Users\jakub\Documents\GitHub\Forkify\node_modules\.bin\update-browserslist-db.cmd133470280612728411 0
-63C:\Users\jakub\Documents\GitHub\Forkify\dist\icons.21bad73c.svg133482294867024334 0
-63C:\Users\jakub\Documents\GitHub\Forkify\dist\icons.dfd7a6db.svg133482294867050577 0
+63C:\Users\jakub\Documents\GitHub\Forkify\dist\icons.21bad73c.svg133487537772540897 0
+63C:\Users\jakub\Documents\GitHub\Forkify\dist\icons.dfd7a6db.svg133487537772590762 0
 62C:\Users\jakub\Documents\GitHub\Forkify\dist\index.62406edb.js133470281035993799 0
 66C:\Users\jakub\Documents\GitHub\Forkify\dist\index.62406edb.js.map133470281036013734 0
-62C:\Users\jakub\Documents\GitHub\Forkify\dist\index.e37f48ea.js133482302093479668 0
-66C:\Users\jakub\Documents\GitHub\Forkify\dist\index.e37f48ea.js.map133482302093509577 0
-55C:\Users\jakub\Documents\GitHub\Forkify\dist\index.html133482302093459735 0
-62C:\Users\jakub\Documents\GitHub\Forkify\dist\logo.726d37a8.png133482294867091007 0
+62C:\Users\jakub\Documents\GitHub\Forkify\dist\index.e37f48ea.js133487579937471195 0
+66C:\Users\jakub\Documents\GitHub\Forkify\dist\index.e37f48ea.js.map133487579937481167 0
+55C:\Users\jakub\Documents\GitHub\Forkify\dist\index.html133487537772221971 0
+62C:\Users\jakub\Documents\GitHub\Forkify\dist\logo.726d37a8.png133487537772231933 0
